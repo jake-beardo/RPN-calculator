@@ -1,3 +1,5 @@
+** This is a Reverse Polish Notation Calculator **
+
 Our main function is near the top of the code underneath the include statements, stack array definitions and the function declarations and underneath our main function are all our other functions.
 \
 The main function contains the main body of our code and handles when different number of arguments are passed and different scenarios for different arguments.
